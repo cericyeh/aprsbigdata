@@ -1,0 +1,1 @@
+This folder contains working scripts that illustrate how fragments of code are put together to generate the KML based visualizations.  Note that these may have specific filepaths in place, and cleaner and more general versions will be migrated into the codebase proper.
