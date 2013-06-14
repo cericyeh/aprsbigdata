@@ -1,4 +1,4 @@
-https://github.com/aThis contains code put together for Bill Howe's Introduction to Data Science Course, from University of Washington, on Coursera.
+This contains code put together for Bill Howe's Introduction to Data Science Course, from University of Washington, on Coursera.
 
 The main intent of this code is to identify digipeater coverage for an area, and for this task we do this in the simplest way possible: we only identify direct over-the-air first hop receipts.  We currenlty do not attempt to deal with any RF propagation models, nor do we take elevation nor power into account.  Instead, we simply aggregate and display receipts by position, as well as using some simple histograms for indicating quality of reception.
 
